@@ -1,0 +1,11 @@
+node_modules
+.next
+.vercel
+out
+dist
+*.log
+.DS_Store
+next-desktop-full.png
+next-mobile.png
+generated-assets-desktop.png
+generated-assets-mobile.png
